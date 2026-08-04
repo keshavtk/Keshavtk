@@ -27,7 +27,6 @@ To become a skilled Software Engineer and secure an internship through consisten
 
 - GitHub: https://github.com/keshavtk
 - ## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshavtk&show_icons=true&theme=github_dark&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=keshavtk&theme=github-dark)
