@@ -29,6 +29,5 @@ To become a skilled Software Engineer and secure an internship through consisten
 - ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=keshavtk&theme=github-dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavtk&layout=compact&theme=github_dark)
 
 ⭐ Thanks for visiting my profile!
